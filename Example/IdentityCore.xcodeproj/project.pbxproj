@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		142E40E32FA50F7862E3086E /* IdentityCore.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = IdentityCore.podspec; path = ../IdentityCore.podspec; sourceTree = "<group>"; };
+		142E40E32FA50F7862E3086E /* IdentityCore.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = IdentityCore.podspec; path = ../IdentityCore.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		14FA0F53202EADFAC1387052 /* Pods-IdentityCore_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IdentityCore_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-IdentityCore_Example/Pods-IdentityCore_Example.release.xcconfig"; sourceTree = "<group>"; };
-		2922E94CD91E7AABC2E401F0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		2EF56894E57DFBCFB23AF46F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2922E94CD91E7AABC2E401F0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2EF56894E57DFBCFB23AF46F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* IdentityCore_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IdentityCore_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
