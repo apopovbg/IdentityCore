@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IdentityCore_Example' do
+  pod 'IdentityCore', :path => '../'
+
+  target 'IdentityCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
